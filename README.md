@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakhar-saxena786
+- 👋 Hi, I’m Prakhar Saxena
 - 👀 I’m Data Analyst in Mindsprint
 - 🌱 I’m currently learning Snowflake
 - 💞️ I’m looking to collaborate on GitHub
